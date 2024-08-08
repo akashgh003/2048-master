@@ -11,13 +11,7 @@ A web-based implementation of the classic 2048 game, developed using JavaScript 
 - [🐳 Dockerization](#dockerization)
 - [☸️ Kubernetes Deployment](#kubernetes-deployment)
 - [🤝 Contributing](#contributing)
-- [📝 License](#license)
 
-## 🎮 Demo
-
-![2048 Game Screenshot](path-to-your-screenshot.png)
-
-You can play the game [here](http://your-deployed-app-url.com).
 
 ## ✨ Features
 
