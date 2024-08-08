@@ -1,7 +1,52 @@
-# [2048](https://youtu.be/XM2n1gu4530)
-- Coding Tutorial: https://youtu.be/XM2n1gu4530
-- Demo: https://imkennyyip.github.io/2048/
+# 🚀 2048 Game
 
-In this tutorial, you will learn how to build an identical clone of 2048. You will learn how to use the arrow keys to slide numbers around and merge tiles of the same value while totaling up the score.
+A web-based implementation of the classic 2048 game, developed using JavaScript and CSS. This project is containerized using Docker and deployed using Kubernetes.
 
-![2048-preview](https://user-images.githubusercontent.com/78777681/163065518-e4588997-1dde-45b7-a9a6-a7dafcbdf672.png)
+## 📋 Table of Contents
+
+- [🎮 Demo](#demo)
+- [✨ Features](#features)
+- [🛠️ Technologies](#technologies)
+- [⚙️ Setup Instructions](#setup-instructions)
+- [🐳 Dockerization](#dockerization)
+- [☸️ Kubernetes Deployment](#kubernetes-deployment)
+- [🤝 Contributing](#contributing)
+- [📝 License](#license)
+
+## 🎮 Demo
+
+![2048 Game Screenshot](path-to-your-screenshot.png)
+
+You can play the game [here](http://your-deployed-app-url.com).
+
+## ✨ Features
+
+- 🎯 Simple and intuitive gameplay.
+- 📱 Responsive design for desktop and mobile devices.
+- 🔙 Undo functionality.
+- 🏆 High score tracking.
+
+## 🛠️ Technologies
+
+- **Frontend**: JavaScript, HTML5, CSS3
+- **Containerization**: Docker
+- **Orchestration**: Kubernetes
+- **CI/CD**: GitHub Actions (or your choice of CI/CD tool)
+
+## ⚙️ Setup Instructions
+
+### Prerequisites
+
+- 🌐 [Node.js](https://nodejs.org/) (for development and running the app locally)
+- 🐳 [Docker](https://www.docker.com/) (for containerization)
+- ☸️ [Kubernetes](https://kubernetes.io/) (for deployment)
+- 🛠️ [kubectl](https://kubernetes.io/docs/tasks/tools/) (command-line tool for Kubernetes)
+- 🔍 [minikube](https://minikube.sigs.k8s.io/docs/start/) (for local Kubernetes cluster)
+
+### Running Locally
+
+1. **📥 Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/2048-game.git
+   cd 2048-game
