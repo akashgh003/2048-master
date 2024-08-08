@@ -42,5 +42,5 @@ A web-based implementation of the classic 2048 game, developed using JavaScript 
 1. **📥 Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/2048-game.git
+   git clone https://github.com/akashgh003/2048-game.git
    cd 2048-game
