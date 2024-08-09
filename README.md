@@ -27,7 +27,6 @@ A web-based implementation of the classic 2048 game, developed using JavaScript 
 - **Orchestration**: Kubernetes
 - **CI/CD**: GitHub Actions (or your choice of CI/CD tool)
 
-## ⚙️ Setup Instructions
 
 ### Prerequisites
 
