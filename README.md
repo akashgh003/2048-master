@@ -42,4 +42,4 @@ A web-based implementation of the classic 2048 game, developed using JavaScript 
 
    ```bash
    git clone https://github.com/akashgh003/2048-game.git
-   cd 2048-game
+   
