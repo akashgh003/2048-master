@@ -18,7 +18,6 @@ A web-based implementation of the classic 2048 game, developed using JavaScript 
 - 🎯 Simple and intuitive gameplay.
 - 📱 Responsive design for desktop and mobile devices.
 - 🔙 Undo functionality.
-- 🏆 High score tracking.
 
 ## 🛠️ Technologies
 
