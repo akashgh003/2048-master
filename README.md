@@ -7,7 +7,6 @@ A web-based implementation of the classic 2048 game, developed using JavaScript 
 - [🎮 Demo](#demo)
 - [✨ Features](#features)
 - [🛠️ Technologies](#technologies)
-- [⚙️ Setup Instructions](#setup-instructions)
 - [🐳 Dockerization](#dockerization)
 - [☸️ Kubernetes Deployment](#kubernetes-deployment)
 - [🤝 Contributing](#contributing)
